@@ -130,9 +130,9 @@
     z-index: 1;
 
 }
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 700px) {
     .ia-container { 
-		width: 400px; 
+		width: 450px; 
 	}
 	
 	.ia-container figure { 
@@ -141,11 +141,11 @@
 	}
 	
 	.ia-container input { 
-		width: 40px; 
+		width: 50px; 
 	}
 	
 	.ia-container input:checked ~ figure { 
-		left: 300px; 
+		left: 350px; 
 	}
 	
 	.ia-container figcaption span { 
@@ -153,9 +153,9 @@
 	}
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 700px) {
     .ia-container { 
-		width: 400px; 
+		width: 450px; 
 	}
 	
 	.ia-container figure { 
@@ -164,11 +164,11 @@
 	}
 	
 	.ia-container input { 
-		width: 40px; 
+		width: 50px; 
 	}
 	
 	.ia-container input:checked ~ figure { 
-		left: 300px; 
+		left: 350px; 
 	}
 	
 	.ia-container figcaption span { 
