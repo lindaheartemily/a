@@ -130,22 +130,22 @@
     z-index: 1;
 
 }
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 670px) {
     .ia-container { 
 		width: 400px; 
 	}
 	
 	.ia-container figure { 
 		left: 40px; 
-		width: 260px; 
+		width: 300px; 
 	}
 	
 	.ia-container input { 
-		width: 30px; 
+		width: 40px; 
 	}
 	
 	.ia-container input:checked ~ figure { 
-		left: 230px; 
+		left: 300px; 
 	}
 	
 	.ia-container figcaption span { 
@@ -153,22 +153,22 @@
 	}
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 670px) {
     .ia-container { 
 		width: 400px; 
 	}
 	
 	.ia-container figure { 
 		left: 40px; 
-		width: 260px; 
+		width: 300px; 
 	}
 	
 	.ia-container input { 
-		width: 30px; 
+		width: 40px; 
 	}
 	
 	.ia-container input:checked ~ figure { 
-		left: 230px; 
+		left: 300px; 
 	}
 	
 	.ia-container figcaption span { 
